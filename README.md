@@ -1,7 +1,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cmbennett01/kepler.git/master) Jupyter Notebook
 
 # kepler
-Keplerian elements for approximate positions of the major planets
+Keplerian elements for approximate positions of the major planets.
 
 References:
 
